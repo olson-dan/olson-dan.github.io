@@ -4,3 +4,5 @@ url: https://olson-dan.github.io
 theme: jekyll-theme-tactile
 twitter:
   username: olson-dan
+plugins:
+  - jekyll-feed
