@@ -1,1 +1,6 @@
+name: Dan Olson's Blog
+description: Sorry it doesn't have a fancy name.
+url: https://olson-dan.github.io
 theme: jekyll-theme-tactile
+twitter:
+  username: olson-dan
