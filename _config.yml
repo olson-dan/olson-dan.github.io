@@ -1,5 +1,7 @@
-name: Dan Olson's Blog
-description: Sorry it doesn't have a fancy name.
+title: Dan Olson's Blog
+author: Dan Olson
+description: Ramblings of a random software engineer.
+show_excerpts: true
 url: https://olson-dan.github.io
 theme: minima
 twitter:
@@ -13,3 +15,9 @@ defaults:
       type: posts
     values:
       layout: post
+minima:
+  # generate social links in footer
+  social_links:
+    twitter: olson-dan
+    github:  olson-dan
+    rss: rss
